@@ -5,7 +5,7 @@
 Building machine learning systems with a focus on
 natural language processing and deep learning at Yandex Maps
 
-[Software Engineer '28 @ ITMO University](https://abit.itmo.ru/program/bachelor/system_software)
+Software Engineering '28 @ ITMO University
 
 Currently working on **[Food Delivery RecSys](https://github.com/vladlenblch/recsys_food_delivery)** and **[Dota 2 Counterpick Knowledge Graph](https://github.com/vladlenblch/dota2_counterpick_ontology)**
 
