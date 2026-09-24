@@ -2,14 +2,14 @@
 
 ### Machine Learning Engineer | NLP
 
-Building machine learning systems with a focus on
+- Building machine learning systems with a focus on
 natural language processing and deep learning at Yandex Maps
 
-Software Engineering '28 @ ITMO University
+- Software Engineering '28 @ ITMO University
 
-Currently working on **[Food Delivery RecSys](https://github.com/vladlenblch/recsys_food_delivery)** and **[Dota 2 Counterpick Knowledge Graph](https://github.com/vladlenblch/dota2_counterpick_ontology)**
+- Currently working on **[Food Delivery RecSys](https://github.com/vladlenblch/recsys_food_delivery)** and **[Dota 2 Counterpick Knowledge Graph](https://github.com/vladlenblch/dota2_counterpick_ontology)**
 
-Interested in NLP, recommender systems and classic ML
+- Interested in NLP, recommender systems and classic ML
 
 ## Tech Stack
 
@@ -37,7 +37,8 @@ Interested in NLP, recommender systems and classic ML
 
 ### Contact with me
 
-
-\
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/larionov_vlad)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vlad6larionov@gmail.com)
+[![Website](https://img.shields.io/badge/vladlenblch.ru-161B22?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://vladlenblch.ru)
 
 </div>
